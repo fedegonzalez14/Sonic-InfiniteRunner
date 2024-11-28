@@ -40,7 +40,7 @@ export default function mainMenu() {
     ]);
 
     k.add([
-        k.text("Press Space/Click/Touch to Play", {font: "mania", size: 32}),
+        k.text("Hi", {font: "mania", size: 32}),
         k.pos(k.center().x, k.center().y-200),
         k.anchor("center"),
     ]);
